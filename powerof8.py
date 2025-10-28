@@ -10,4 +10,6 @@ first_number//=3
 first_number-=number
 first_number*=4
 
+
 print(first_number)
+print("Follow me in Telegram :NeoDev2")
